@@ -105,6 +105,6 @@ Production-ready project structure
 
 
 ## Screenshots
- <img src="TASK1.png" alt="Redmi Phone" width="400" height="auto">
- <img src="TASK2.png" alt="Redmi Phone" width="400" height="auto">
- <img src="TASK3.png" alt="Redmi Phone" width="400" height="auto">
+ <img src="TASK1.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="TASK2.png" alt="Redmi Phone" width="300" height="auto">
+ <img src="TASK3.png" alt="Redmi Phone" width="550" height="auto">
